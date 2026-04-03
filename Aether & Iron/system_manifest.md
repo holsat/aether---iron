@@ -2,7 +2,7 @@
 **Metadata & Versioning**
 
 ## Project Structure
-- Core Rules
+- Core Rules - How to play!
 - Bestiary
 - Character Sheet
 
