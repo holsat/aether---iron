@@ -2,9 +2,11 @@
 **Metadata & Versioning**
 
 ## Project Structure
-- Core Rules - How to play!
+- Core Rules
 - Bestiary
 - Character Sheet
+
+GOING IN A DIFFERENT DIRECTION!!!!
 
 ## Global Constants
 * **System:** D20-based High Fantasy
