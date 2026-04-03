@@ -1,0 +1,96 @@
+{
+    "author": "",
+    "autoSync": true,
+    "name": "Aether & Iron",
+    "pdf": {
+        "marginBottom": 20,
+        "marginLeft": 20,
+        "marginRight": 20,
+        "marginTop": 20,
+        "pageSize": "A4",
+        "showPageNumbers": true
+    },
+    "stylesheet": "stylesheets/style.css",
+    "tree": {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [
+                        ],
+                        "name": "system_manifest",
+                        "path": "Aether & Iron/system_manifest.md",
+                        "status": "",
+                        "synopsis": "",
+                        "type": "file"
+                    },
+                    {
+                        "children": [
+                        ],
+                        "name": "core_rules",
+                        "path": "Aether & Iron/core_rules.md",
+                        "status": "",
+                        "synopsis": "",
+                        "type": "file"
+                    },
+                    {
+                        "children": [
+                        ],
+                        "name": "bestiary",
+                        "path": "Aether & Iron/bestiary.md",
+                        "status": "",
+                        "synopsis": "",
+                        "type": "file"
+                    },
+                    {
+                        "children": [
+                        ],
+                        "name": "char_template",
+                        "path": "Aether & Iron/char_template.md",
+                        "status": "",
+                        "synopsis": "",
+                        "type": "file"
+                    },
+                    {
+                        "children": [
+                        ],
+                        "name": "Media",
+                        "path": "",
+                        "status": "",
+                        "synopsis": "",
+                        "type": "folder"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                ],
+                                "name": "style.css",
+                                "path": "Aether & Iron/Stylesheets/style.css",
+                                "status": "",
+                                "synopsis": "",
+                                "type": "file"
+                            }
+                        ],
+                        "name": "Stylesheets",
+                        "path": "",
+                        "status": "",
+                        "synopsis": "",
+                        "type": "folder"
+                    }
+                ],
+                "name": "Aether & Iron",
+                "path": "",
+                "status": "",
+                "synopsis": "",
+                "type": "folder"
+            }
+        ],
+        "name": "",
+        "path": "",
+        "status": "",
+        "synopsis": "",
+        "type": "folder"
+    },
+    "version": 1
+}

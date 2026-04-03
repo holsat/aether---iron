@@ -1,0 +1,24 @@
+/* RPG Forge Project Stylesheet */
+/* Use this file to control the look of your Preview and PDF Export. */
+
+/* Example: Professional Book Font */
+body {
+    font-family: 'Crimson Text', 'Georgia', serif;
+    line-height: 1.6;
+}
+
+/* Example: PDF Pagination Settings */
+@page {
+    size: A4;
+    margin: 20mm;
+    /* Page numbers are handled automatically by RPG Forge, */
+    /* but you can add custom headers/footers here using CSS Paged Media. */
+}
+
+/* Example: Chapter Headers starting on new pages */
+h1 {
+    break-before: page;
+    color: red;
+    text-align: center;
+    margin-top: 50px;
+}
